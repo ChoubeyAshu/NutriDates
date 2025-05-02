@@ -45,7 +45,7 @@ const Footer = () => {
               <ul className="text-gray-600 dark:text-gray-400">
                 <li className="mb-4">
                   <a
-                    href="https://github.com/akash11622"
+                    href="https://github.com/ChoubeyAshu"
                     className="hover:underline "
                   >
                     Github
@@ -53,7 +53,7 @@ const Footer = () => {
                 </li>
                 <li className="mb-4">
                   <a
-                    href="https://www.linkedin.com/in/akash5414"
+                    href="https://www.linkedin.com/in/ashutosh-kumar-choubey-aa60b5248/"
                     className="hover:underline"
                   >
                     Linkedin
@@ -61,7 +61,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://akash-portfolio-ten-kappa.vercel.app/"
+                    href="/"
                     className="hover:underline"
                   >
                     Dev Website
@@ -93,17 +93,17 @@ const Footer = () => {
           <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400">
             © {year} &copy;
             <a href="#" className="hover:underline">
-              Tomory
+              NutriDates
             </a>
             . All Rights Reserved. Developer
-            <a className="text-cyan-500" href="https://akash-portfolio-ten-kappa.vercel.app/">
+            <a className="text-cyan-500" href="/">
               {" "}
-              @Akash
+              @Ashutosh
             </a>
           </span>
           <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
             <a
-              href="https://github.com/akash11622"
+              href="https://github.com/ChoubeyAshu"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
@@ -121,7 +121,7 @@ const Footer = () => {
               <span className="sr-only">GitHub account</span>
             </a>
             <a
-              href="https://www.linkedin.com/in/akash5414"
+              href="https://www.linkedin.com/in/ashutosh-kumar-choubey-aa60b5248/"
               className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
             >
               <svg
