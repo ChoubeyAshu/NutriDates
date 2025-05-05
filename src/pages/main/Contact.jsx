@@ -22,7 +22,7 @@ const Contact = () => {
           />
           <a
             rel="noopener"
-            href="https://akash-portfolio-ten-kappa.vercel.app/"
+            href="/"
             target="_blank"
           >
             <span>Developer website</span>
